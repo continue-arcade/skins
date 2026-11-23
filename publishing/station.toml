@@ -1,0 +1,20 @@
+id = "org.continue.skins"
+name = "Continue"
+description = "Continue 外壳发布"
+data_dir = "../state/cart-station"
+listen = "127.0.0.1:4339"
+public_url = "https://cart-registry.continue.works/"
+
+[registry]
+id = "org.continue.cart-station"
+output_dir = "../build/station/export"
+public_url = "https://cart-registry.continue.works/"
+
+[[carts]]
+cart_id = "org.continue.diorama.gba-amethyst"
+github_repo = "continue-arcade/skins"
+tag_prefix = "gba-amethyst-"
+readme_path = "skins/gba-amethyst/cart/README.md"
+readme_ref = "gba-amethyst-v0.1.0-preview.1"
+include_prereleases = true
+artifact_storage = "external"
