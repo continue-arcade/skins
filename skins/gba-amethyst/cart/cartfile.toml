@@ -1,0 +1,32 @@
+schema = "continue.cartfile.v2"
+id = "org.continue.diorama.gba-amethyst"
+default_locale = "zh-CN"
+version = "0.1.0-preview.1"
+author = "Manic EMU；Continue 适配"
+publisher = "Continue"
+description = "紫色 GBA 掌机外壳，提供手机和平板横竖屏布局，以及按钮按压、回弹和方向倾斜反馈。"
+tags = ["diorama", "gba", "touch-controls"]
+
+[name]
+zh-CN = "GBA 紫晶外壳"
+en = "GBA Amethyst"
+
+[summary]
+zh-CN = "紫色 GBA 掌机外壳，包含手机和平板横竖屏布局，支持按钮按压、回弹和方向倾斜反馈。"
+en = "A purple GBA shell with phone and tablet layouts, responsive buttons, and directional tilt feedback."
+
+[presentation]
+icon = "presentation/icon.png"
+cover = "presentation/cover.png"
+screenshots = ["presentation/phone-portrait.png", "presentation/phone-landscape.png", "presentation/pressed.png", "presentation/tablet-landscape.png"]
+
+[links]
+source = "https://github.com/Manic-EMU/ManicEMUSkins"
+
+[artifact]
+format = "cart.zip.v1"
+
+[artifact.target]
+
+[include]
+paths = ["README.md", "CREDITS.md", "LICENSE.txt", "RELEASE_NOTES.md", "provenance.json", "presentation/", "resource/"]

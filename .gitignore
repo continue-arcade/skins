@@ -1,0 +1,5 @@
+build/
+releases/
+.DS_Store
+__pycache__/
+sources/**/gba/

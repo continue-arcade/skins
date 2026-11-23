@@ -1,0 +1,12 @@
+{
+  "upstream": "https://github.com/Manic-EMU/ManicEMUSkins",
+  "file": "GBA.manicskin",
+  "sha256": "78cf59e6285f367f667ec7fa7377abe540b09ed393072319b1d02cd443f273da",
+  "license": "CC-BY-4.0",
+  "modifications": [
+    "Diorama DSL conversion",
+    "PDF to PNG",
+    "native outQuad press feedback",
+    "phone edge-to-edge and tablet layouts"
+  ]
+}
