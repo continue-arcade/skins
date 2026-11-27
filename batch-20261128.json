@@ -141,8 +141,8 @@
     "tag": "platform-bezels-v0.1.0-preview.2",
     "cart_id": "org.continue.diorama.platform-bezels",
     "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/platform-bezels-0.1.0-preview.2.cart",
-    "sha256": "7592c1f76ddc6a7309fa996187d4dac0246bea8cbf73cd35c2de60bb8a35d443",
-    "bytes": 66788041,
+    "sha256": "782c0bff411c497d502fe7dbdabb4feb138632fb85ffd3b2cef69791b6482b40",
+    "bytes": 66788040,
     "cases": 17,
     "screenshots": [
       "gb.png",
@@ -159,7 +159,7 @@
     "tag": "screen-bezels-v0.1.0-preview.2",
     "cart_id": "org.continue.diorama.screen-bezels",
     "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/screen-bezels-0.1.0-preview.2.cart",
-    "sha256": "68b1cf68805570f969f187af65c9e9199c8a9d75fe20260117f175fb44dbcece",
+    "sha256": "dd9a6abf838210bf50d2172e0ee60d42df07ba0dcaa3400dd9c6c9e5e831a3ae",
     "bytes": 301459,
     "cases": 3,
     "screenshots": [
