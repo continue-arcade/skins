@@ -24,7 +24,3 @@ NES 经典外壳，提供手机和平板横竖屏布局、独立按钮与方向�
 ![tablet landscape](https://raw.githubusercontent.com/continue-works/arcade-skins/nes-classic-v0.1.0-preview.2/skins/nes-classic/cart/presentation/tablet-landscape.png)
 
 ![按压反馈](https://raw.githubusercontent.com/continue-works/arcade-skins/nes-classic-v0.1.0-preview.2/skins/nes-classic/cart/presentation/pressed.png)
-
-## 来源
-
-见 CREDITS.md、LICENSE.txt 与 provenance.json。原始标识保留作为素材来源记录。

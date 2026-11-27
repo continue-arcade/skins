@@ -85,7 +85,6 @@ paths = ["README.md", "CREDITS.md", "LICENSE.txt", "RELEASE_NOTES.md", "provenan
     readme += '## 包含内容\n\n' + '\n'.join('- '+r for r in resources) + '\n\n'
     readme += '## 原生预览\n\n截图由 Dash Metal 渲染，屏幕中是原创开发测试画面；用于核对外观和按压反馈，不代表对应平台核心或游戏已经验收。游戏按核心提供的比例居中放入画框，不拉伸；测试画面的比例与目标平台不同时会留黑边。\n\n'
     readme += '\n\n'.join(f'![{s.removesuffix(".png")}](presentation/{s})' for s in screenshots)
-    readme += '\n\n## 来源\n\n见 CREDITS.md、LICENSE.txt 与 provenance.json。原始标识保留作为素材来源记录。\n'
     (cart / 'README.md').write_text(readme)
     build = ROOT / 'build' / slug
     for command in ('inspect','pack','verify'):

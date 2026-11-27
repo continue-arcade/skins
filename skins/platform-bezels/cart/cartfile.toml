@@ -1,7 +1,7 @@
 schema = "continue.cartfile.v2"
 id = "org.continue.diorama.platform-bezels"
 default_locale = "zh-CN"
-version = "0.1.0-preview.2"
+version = "0.1.0-preview.3"
 author = "Nosh；Continue 适配"
 publisher = "Continue"
 description = "为掌机、家用机和横竖街机填充宽屏空白，包含十七款无按钮边框，保留游戏比例。"

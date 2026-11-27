@@ -1,7 +1,7 @@
 schema = "continue.cartfile.v2"
 id = "org.continue.diorama.screen-bezels"
 default_locale = "zh-CN"
-version = "0.1.0-preview.2"
+version = "0.1.0-preview.3"
 author = "Libretro common-overlays contributors；Continue 适配"
 publisher = "Continue"
 description = "为经典掌机和横竖屏游戏保留简洁屏框，不显示按钮图案或触摸控件，适合搭配实体手柄游玩。"

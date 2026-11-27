@@ -22,7 +22,3 @@
 ![crt-horizontal · SNES 核心实际输出](https://raw.githubusercontent.com/continue-works/arcade-skins/screen-bezels-v0.1.0-preview.2/skins/screen-bezels/cart/presentation/crt-horizontal.png)
 
 ![crt-vertical · NES 核心实际输出](https://raw.githubusercontent.com/continue-works/arcade-skins/screen-bezels-v0.1.0-preview.2/skins/screen-bezels/cart/presentation/crt-vertical.png)
-
-## 来源
-
-见 CREDITS.md、LICENSE.txt 与 provenance.json。原始标识保留作为素材来源记录。

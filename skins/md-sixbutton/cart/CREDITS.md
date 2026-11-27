@@ -16,3 +16,5 @@ MD 映射依据：https://github.com/libretro/Genesis-Plus-GX/blob/master/libret
 - https://github.com/Xch3l/sms_padtest
 - https://github.com/JoppyFurr/SN76489-TestRom
 - https://github.com/pspdev/pspsdk
+
+原始标识保留作为素材来源记录；许可全文见 LICENSE.txt。

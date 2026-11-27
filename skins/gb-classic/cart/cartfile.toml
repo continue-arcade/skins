@@ -1,7 +1,7 @@
 schema = "continue.cartfile.v2"
 id = "org.continue.diorama.gb-classic"
 default_locale = "zh-CN"
-version = "0.1.0-preview.2"
+version = "0.1.0-preview.3"
 author = "Manic EMU；Continue 适配"
 publisher = "Continue"
 description = "GB 经典外壳，提供手机和平板横竖屏布局、独立按钮与方向操作反馈，保留游戏原比例。"

@@ -1,7 +1,7 @@
 schema = "continue.cartfile.v2"
 id = "org.continue.diorama.gba-amethyst"
 default_locale = "zh-CN"
-version = "0.1.0-preview.1"
+version = "0.1.0-preview.2"
 author = "Manic EMU；Continue 适配"
 publisher = "Continue"
 description = "紫色 GBA 掌机外壳，提供手机和平板横竖屏布局，以及按钮按压、回弹和方向倾斜反馈。"

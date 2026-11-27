@@ -41,7 +41,3 @@
 ![arcade-vertical · NES 核心实际输出](https://raw.githubusercontent.com/continue-works/arcade-skins/platform-bezels-v0.1.0-preview.2/skins/platform-bezels/cart/presentation/arcade-vertical.png)
 
 ![ws-vertical · GB 核心实际输出](https://raw.githubusercontent.com/continue-works/arcade-skins/platform-bezels-v0.1.0-preview.2/skins/platform-bezels/cart/presentation/ws-vertical.png)
-
-## 来源
-
-见 CREDITS.md、LICENSE.txt 与 provenance.json。原始标识保留作为素材来源记录。
