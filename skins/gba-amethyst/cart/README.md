@@ -2,19 +2,19 @@
 
 紫色 GBA 掌机外壳，提供手机和平板横竖屏布局。按钮按下时轻微缩小、下沉并变暗，松开后回弹；十字键随方向倾斜。游戏画面保留 GBA 的 3:2 比例。
 
-![横屏外观](https://raw.githubusercontent.com/continue-arcade/skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/phone-landscape.png)
+![横屏外观](https://raw.githubusercontent.com/continue-works/arcade-skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/phone-landscape.png)
 
 ## 手机竖屏
 
-![手机竖屏](https://raw.githubusercontent.com/continue-arcade/skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/phone-portrait.png)
+![手机竖屏](https://raw.githubusercontent.com/continue-works/arcade-skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/phone-portrait.png)
 
 ## 按压反馈
 
-![A键按压效果](https://raw.githubusercontent.com/continue-arcade/skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/pressed.png)
+![A键按压效果](https://raw.githubusercontent.com/continue-works/arcade-skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/pressed.png)
 
 ## 平板布局
 
-![平板横屏](https://raw.githubusercontent.com/continue-arcade/skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/tablet-landscape.png)
+![平板横屏](https://raw.githubusercontent.com/continue-works/arcade-skins/gba-amethyst-v0.1.0-preview.1/skins/gba-amethyst/cart/presentation/tablet-landscape.png)
 
 ## 使用
 
