@@ -1,0 +1,102 @@
+id = "org.continue.skins"
+name = "Continue"
+description = "Continue 外壳发布"
+data_dir = "../state/cart-station"
+listen = "127.0.0.1:4339"
+public_url = "https://cart-registry.continue.works/"
+
+[registry]
+id = "org.continue.cart-station"
+output_dir = "../build/native-release/export"
+public_url = "https://cart-registry.continue.works/"
+
+
+[[carts]]
+cart_id = "org.continue.diorama.gb-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "gb-classic-"
+readme_path = "skins/gb-classic/cart/README.md"
+readme_ref = "gb-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.gbc-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "gbc-classic-"
+readme_path = "skins/gbc-classic/cart/README.md"
+readme_ref = "gbc-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.nes-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "nes-classic-"
+readme_path = "skins/nes-classic/cart/README.md"
+readme_ref = "nes-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.snes-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "snes-classic-"
+readme_path = "skins/snes-classic/cart/README.md"
+readme_ref = "snes-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.md-sixbutton"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "md-sixbutton-"
+readme_path = "skins/md-sixbutton/cart/README.md"
+readme_ref = "md-sixbutton-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.sms-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "sms-classic-"
+readme_path = "skins/sms-classic/cart/README.md"
+readme_ref = "sms-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.gg-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "gg-classic-"
+readme_path = "skins/gg-classic/cart/README.md"
+readme_ref = "gg-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.psp-classic"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "psp-classic-"
+readme_path = "skins/psp-classic/cart/README.md"
+readme_ref = "psp-classic-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.platform-bezels"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "platform-bezels-"
+readme_path = "skins/platform-bezels/cart/README.md"
+readme_ref = "platform-bezels-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"
+
+[[carts]]
+cart_id = "org.continue.diorama.screen-bezels"
+github_repo = "continue-works/arcade-skins"
+tag_prefix = "screen-bezels-"
+readme_path = "skins/screen-bezels/cart/README.md"
+readme_ref = "screen-bezels-v0.1.0-preview.2"
+include_prereleases = true
+artifact_storage = "external"

@@ -1,0 +1,32 @@
+schema = "continue.cartfile.v2"
+id = "org.continue.diorama.gb-classic"
+default_locale = "zh-CN"
+version = "0.1.0-preview.2"
+author = "Manic EMU；Continue 适配"
+publisher = "Continue"
+description = "GB 经典外壳，提供手机和平板横竖屏布局、独立按钮与方向操作反馈，保留游戏原比例。"
+tags = ["diorama", "gb", "touch-controls"]
+
+[name]
+zh-CN = "GB 经典外壳"
+en = "Gb Classic"
+
+[summary]
+zh-CN = "GB 经典外壳，提供手机和平板横竖屏布局、独立按钮与方向操作反馈，保留游戏原比例。"
+en = "Phone and tablet shells with native button feedback and original screen proportions."
+
+[presentation]
+icon = "presentation/icon.png"
+cover = "presentation/cover.png"
+screenshots = ["presentation/phone-portrait.png", "presentation/phone-landscape.png", "presentation/tablet-portrait.png", "presentation/tablet-landscape.png", "presentation/pressed.png"]
+
+[links]
+source = "https://github.com/Manic-EMU/ManicEMUSkins"
+
+[artifact]
+format = "cart.zip.v1"
+
+[artifact.target]
+
+[include]
+paths = ["README.md", "CREDITS.md", "LICENSE.txt", "RELEASE_NOTES.md", "provenance.json", "presentation/", "resources/"]

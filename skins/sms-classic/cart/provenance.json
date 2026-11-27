@@ -1,0 +1,77 @@
+{
+  "source_file": "/Volumes/GM9000/Continue/assets/skins/manic/2026-11-23/official/Master System/MS.manicskin",
+  "sha256": "06cd573aef2fb90dec990da8b0a48e4ff657bf2bbbf1d9101b20a3e48c71364b",
+  "license_evidence": {
+    "file": "/Volumes/GM9000/Continue/manic-skins-20261123/official/Master System/MS.manicskin",
+    "archive_tree": "63c04f92febba461d10ea16ef00b0f76199a5b20",
+    "archive_path": "MS.manicskin",
+    "same_content": true,
+    "archive_blob_sha": "1f2ddaaf13b44854c48f7648550216c1c2ed7f6f"
+  },
+  "input_mapping": {
+    "a": "A",
+    "b": "B",
+    "x": "X",
+    "y": "Y",
+    "l": "L",
+    "r": "R",
+    "l1": "L",
+    "r1": "R",
+    "start": "Start",
+    "select": "Select",
+    "menu": "Menu",
+    "up": "Up",
+    "down": "Down",
+    "left": "Left",
+    "right": "Right"
+  },
+  "note": "MD 按 Genesis Plus GX 的 Libretro 六键契约；SMS/GG 保留右键 A、左键 B，对应核心的 2/1。未做实际核心输入验收。",
+  "layouts": 4,
+  "native_verification": {
+    "date": "2026-11-28",
+    "platform": "macOS aarch64 / Metal",
+    "cases": [
+      {
+        "profile": "sms",
+        "layout": "sms-classic/phone/portrait",
+        "scripted": false,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "f7da00741214b434d5e63d1dd5fbc7db9486f8a1363aeec0a0de0ff65795eb24",
+        "passed": true
+      },
+      {
+        "profile": "sms",
+        "layout": "sms-classic/phone/landscape",
+        "scripted": false,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "f7da00741214b434d5e63d1dd5fbc7db9486f8a1363aeec0a0de0ff65795eb24",
+        "passed": true
+      },
+      {
+        "profile": "sms",
+        "layout": "sms-classic/tablet/portrait",
+        "scripted": false,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "f7da00741214b434d5e63d1dd5fbc7db9486f8a1363aeec0a0de0ff65795eb24",
+        "passed": true
+      },
+      {
+        "profile": "sms",
+        "layout": "sms-classic/tablet/landscape",
+        "scripted": false,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "f7da00741214b434d5e63d1dd5fbc7db9486f8a1363aeec0a0de0ff65795eb24",
+        "passed": true
+      },
+      {
+        "profile": "sms",
+        "layout": "sms-classic/phone/portrait",
+        "scripted": true,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "f7da00741214b434d5e63d1dd5fbc7db9486f8a1363aeec0a0de0ff65795eb24",
+        "passed": true
+      }
+    ],
+    "scope": "真实核心画面合成；触控版额外验证 A/方向/释放/旋转。边框按画面类别测试，不等同每个图示机种的核心兼容性。"
+  }
+}

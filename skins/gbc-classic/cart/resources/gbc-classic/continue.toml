@@ -1,0 +1,12 @@
+schema = "continue.resource.v1"
+type = "diorama"
+id = "org.continue.diorama.gbc-classic"
+name = "GBC 彩色外壳"
+version = "0.1.0-preview.2"
+author = "上游素材作者；Continue 适配"
+license = "CC-BY-4.0"
+description = "GBC 彩色外壳，保留游戏比例。"
+entrypoint = "scene.continue-diorama"
+
+[diorama]
+renderer = "continue.scene"

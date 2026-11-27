@@ -1,0 +1,373 @@
+{
+  "repository": "libretro/overlay-borders",
+  "commit": "9aceca2dd514c589a57d40086557b804851aafcf",
+  "author": "Nosh (Nosh01 collection)",
+  "resources": [
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Nintendo-Game-Boy-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Nintendo-Game-Boy-Bezel-16x9-2560x1440.png",
+      "sha256": "f0d4f3b637e8482f2e199234958fb997bf38bf589f48581ca18eb52e6e3d0ee0",
+      "bytes": 3508023,
+      "resource": "gb",
+      "aperture": [
+        809,
+        291,
+        943,
+        859
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Nintendo-Game-Boy-Color-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Nintendo-Game-Boy-Color-Bezel-16x9-2560x1440.png",
+      "sha256": "950672fb457a4ef40d2d9304bbd36cf4b3b647eb4d14261ede21324e5ef2a7c9",
+      "bytes": 3135159,
+      "resource": "gbc",
+      "aperture": [
+        801,
+        293,
+        958,
+        855
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Nintendo-Game-Boy-Advance-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Nintendo-Game-Boy-Advance-Bezel-16x9-2560x1440.png",
+      "sha256": "63abe4e29a7f08ca2816873e4b38c90b1c3c4e01c7d1cbb04e078898bbec9a30",
+      "bytes": 1824524,
+      "resource": "gba",
+      "aperture": [
+        608,
+        281,
+        1345,
+        877
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Nintendo-Entertainment-System-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Nintendo-Entertainment-System-Bezel-16x9-2560x1440.png",
+      "sha256": "3a147ba0211f084771cffb01034264f19512c914c63e7c75aa6c741a64d2edd3",
+      "bytes": 1318422,
+      "resource": "nes",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Super-Nintendo-Entertainment-System-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Super-Nintendo-Entertainment-System-Bezel-16x9-2560x1440.png",
+      "sha256": "6e05ebda89d1d34c3b199ca9a2ba05cdb8f9ae86cb1b6a1ea927052b2042ab4e",
+      "bytes": 1062539,
+      "resource": "snes",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Sega-Genesis-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Sega-Genesis-Bezel-16x9-2560x1440.png",
+      "sha256": "4826801ec1bad3a55f411befb5a1893cc276212f3c262fa712b00c428b76232f",
+      "bytes": 1437287,
+      "resource": "md",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Sega-Master-System-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Sega-Master-System-Bezel-16x9-2560x1440.png",
+      "sha256": "bb95f5f85dd9f29e514160d46189bd7c3ec0927c7ac767d2fc60e2d15db608a1",
+      "bytes": 1223597,
+      "resource": "sms",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Sega-Game-Gear-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Sega-Game-Gear-Bezel-16x9-2560x1440.png",
+      "sha256": "a82affac3553dfc92f8e3e3a6a6d104032cd76997215caf69335a4722e61d0aa",
+      "bytes": 1685258,
+      "resource": "gg",
+      "aperture": [
+        822,
+        310,
+        920,
+        786
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/NEC-PC-Engine-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/NEC-PC-Engine-Bezel-16x9-2560x1440.png",
+      "sha256": "744935ba83ea4ffaac433ac907981e07d0f0d950518975e2c3eded8f9e5fbab4",
+      "bytes": 1318907,
+      "resource": "pce",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Sony-Playstation-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Sony-Playstation-Bezel-16x9-2560x1440.png",
+      "sha256": "b8fe7c50ccae1d6cdd8b548b69cd24f0c80a9d448d9478150defd17e46395844",
+      "bytes": 1318859,
+      "resource": "ps1",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Nintendo-64-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Nintendo-64-Bezel-16x9-2560x1440.png",
+      "sha256": "92e27331ec1cfc56869fc06d35495aff3c9c5f9c420915059d3334a5c93e1981",
+      "bytes": 1236872,
+      "resource": "n64",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Sega-Saturn-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Sega-Saturn-Bezel-16x9-2560x1440.png",
+      "sha256": "b21c6c6788cec224f86011c758a58c6d25b6142717c057d9173151b3d92c7cb3",
+      "bytes": 1227350,
+      "resource": "saturn",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/MAME-Horizontal-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/MAME-Horizontal-Bezel-16x9-2560x1440.png",
+      "sha256": "2d773e60d04604648e93025698d5d13f6b21666b4a3e6cfed840b3a49d5546b3",
+      "bytes": 1459393,
+      "resource": "arcade-horizontal",
+      "aperture": [
+        320,
+        1,
+        1920,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/MAME-Vertical-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/MAME-Vertical-Bezel-16x9-2560x1440.png",
+      "sha256": "44cd08d472aac95e93f7d68ddb65e9894c7498614e5d3fa9527035e9a6fb6c5f",
+      "bytes": 2557400,
+      "resource": "arcade-vertical",
+      "aperture": [
+        740,
+        1,
+        1080,
+        1438
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/SNK-Neo-Geo-Pocket-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/SNK-Neo-Geo-Pocket-Bezel-16x9-2560x1440.png",
+      "sha256": "722229b4b86a48effa37d59ead6a2efb5f34e2c350b6aeb5ec6adf3e486b3d2d",
+      "bytes": 5225957,
+      "resource": "ngp",
+      "aperture": [
+        815,
+        291,
+        919,
+        855
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Bandai-WonderSwan-Color-Horizontal-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Bandai-WonderSwan-Color-Horizontal-Bezel-16x9-2560x1440.png",
+      "sha256": "779390d94ffd9f64886afbdbbf8b4bd7277f0f26abb95e7deb61d5b2315567a4",
+      "bytes": 2722853,
+      "resource": "ws-horizontal",
+      "aperture": [
+        650,
+        296,
+        1287,
+        813
+      ]
+    },
+    {
+      "path": "16x9 Collections/Nosh01 1440 Plain/Bandai-WonderSwan-Color-Vertical-Bezel-16x9-2560x1440.png",
+      "url": "https://raw.githubusercontent.com/libretro/overlay-borders/9aceca2dd514c589a57d40086557b804851aafcf/16x9%20Collections/Nosh01%201440%20Plain/Bandai-WonderSwan-Color-Vertical-Bezel-16x9-2560x1440.png",
+      "sha256": "2c3f1ad90259f92b7d0d9d17e04e67c1767eb181c39b411ca46acaeb56e64b8d",
+      "bytes": 1843508,
+      "resource": "ws-vertical",
+      "aperture": [
+        812,
+        74,
+        813,
+        1287
+      ]
+    }
+  ],
+  "controls": 0,
+  "screen_geometry": "原透明窗口内保留核心报告比例，不拉伸；不锁定像素宽高比。",
+  "native_verification": {
+    "date": "2026-11-28",
+    "platform": "macOS aarch64 / Metal",
+    "cases": [
+      {
+        "profile": "gb",
+        "layout": "platform-bezels/gb",
+        "scripted": false,
+        "core_sha256": "341e1b37162472975c3c497c5dde490efb7cb476d9ea9149639082a39dd6549d",
+        "rom_sha256": "733eb6e7ec0719752ddd5fcda4e715c2f2e20f4ac4bc971c4bd1d49272f9bb04",
+        "passed": true
+      },
+      {
+        "profile": "gbc",
+        "layout": "platform-bezels/gbc",
+        "scripted": false,
+        "core_sha256": "341e1b37162472975c3c497c5dde490efb7cb476d9ea9149639082a39dd6549d",
+        "rom_sha256": "733eb6e7ec0719752ddd5fcda4e715c2f2e20f4ac4bc971c4bd1d49272f9bb04",
+        "passed": true
+      },
+      {
+        "profile": "gba",
+        "layout": "platform-bezels/gba",
+        "scripted": false,
+        "core_sha256": "f2d05425083a33ef3c7e33269bc5aaf4e99c943b0cb8559865776446643b333d",
+        "rom_sha256": "3dc46e69d36a60f0db55e72d138de07e2ba79456fc43e9a2416a2529c538bf41",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "platform-bezels/nes",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "platform-bezels/snes",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "md",
+        "layout": "platform-bezels/md",
+        "scripted": false,
+        "core_sha256": "b8b91b16f925d5ef94643ee776e4522248397808b5e4842aa678bd66e018f060",
+        "rom_sha256": "1d4a10f02e4bd60e341aa3c812dd24b877076af1f8e9ac0c271c7fde48515f48",
+        "passed": true
+      },
+      {
+        "profile": "sms",
+        "layout": "platform-bezels/sms",
+        "scripted": false,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "f7da00741214b434d5e63d1dd5fbc7db9486f8a1363aeec0a0de0ff65795eb24",
+        "passed": true
+      },
+      {
+        "profile": "gg",
+        "layout": "platform-bezels/gg",
+        "scripted": false,
+        "core_sha256": "2c7aadc62d242c43415cf9011890636cde3f8c725bddb11d958fe197245b6b75",
+        "rom_sha256": "82cb6e83ffbbd0178c5fd40842ec39f933bc4e3ab485738813b3a31fa6fb1122",
+        "passed": true
+      },
+      {
+        "profile": "pce",
+        "layout": "platform-bezels/pce",
+        "scripted": false,
+        "core_sha256": "77dc184f8af27e7c852e376ba1bf1915e670677eb0aeb92d2dc2e5dd6381035f",
+        "rom_sha256": "14e02de2074f0a7efd6b4a380cd28ab07ba90d9ee3c4c9d66eed1ec911b79ada",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "platform-bezels/ps1",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "platform-bezels/n64",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "platform-bezels/saturn",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "md",
+        "layout": "platform-bezels/arcade-horizontal",
+        "scripted": false,
+        "core_sha256": "b8b91b16f925d5ef94643ee776e4522248397808b5e4842aa678bd66e018f060",
+        "rom_sha256": "1d4a10f02e4bd60e341aa3c812dd24b877076af1f8e9ac0c271c7fde48515f48",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "platform-bezels/arcade-vertical",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "gb",
+        "layout": "platform-bezels/ngp",
+        "scripted": false,
+        "core_sha256": "341e1b37162472975c3c497c5dde490efb7cb476d9ea9149639082a39dd6549d",
+        "rom_sha256": "733eb6e7ec0719752ddd5fcda4e715c2f2e20f4ac4bc971c4bd1d49272f9bb04",
+        "passed": true
+      },
+      {
+        "profile": "gba",
+        "layout": "platform-bezels/ws-horizontal",
+        "scripted": false,
+        "core_sha256": "f2d05425083a33ef3c7e33269bc5aaf4e99c943b0cb8559865776446643b333d",
+        "rom_sha256": "3dc46e69d36a60f0db55e72d138de07e2ba79456fc43e9a2416a2529c538bf41",
+        "passed": true
+      },
+      {
+        "profile": "gb",
+        "layout": "platform-bezels/ws-vertical",
+        "scripted": false,
+        "core_sha256": "341e1b37162472975c3c497c5dde490efb7cb476d9ea9149639082a39dd6549d",
+        "rom_sha256": "733eb6e7ec0719752ddd5fcda4e715c2f2e20f4ac4bc971c4bd1d49272f9bb04",
+        "passed": true
+      }
+    ],
+    "scope": "真实核心画面合成；触控版额外验证 A/方向/释放/旋转。边框按画面类别测试，不等同每个图示机种的核心兼容性。"
+  }
+}

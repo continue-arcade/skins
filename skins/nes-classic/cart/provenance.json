@@ -1,0 +1,77 @@
+{
+  "source_file": "/Volumes/GM9000/Continue/assets/skins/manic/2026-11-23/official/NES/NES.manicskin",
+  "sha256": "5d4fff68b513254d184c5bd18e40f4c8b2b5b96ad75491b7781636ad5099ceda",
+  "license_evidence": {
+    "file": "/Volumes/GM9000/Continue/manic-skins-20261123/official/NES/NES.manicskin",
+    "archive_tree": "63c04f92febba461d10ea16ef00b0f76199a5b20",
+    "archive_path": "NES.manicskin",
+    "same_content": true,
+    "archive_blob_sha": "fcf2b7de4bd6de3c98ebc4bedee74e4442e0dc7e"
+  },
+  "input_mapping": {
+    "a": "A",
+    "b": "B",
+    "x": "X",
+    "y": "Y",
+    "l": "L",
+    "r": "R",
+    "l1": "L",
+    "r1": "R",
+    "start": "Start",
+    "select": "Select",
+    "menu": "Menu",
+    "up": "Up",
+    "down": "Down",
+    "left": "Left",
+    "right": "Right"
+  },
+  "note": "MD 按 Genesis Plus GX 的 Libretro 六键契约；SMS/GG 的 1/2 键映射 B/A。未做实际核心输入验收。",
+  "layouts": 4,
+  "native_verification": {
+    "date": "2026-11-28",
+    "platform": "macOS aarch64 / Metal",
+    "cases": [
+      {
+        "profile": "nes",
+        "layout": "nes-classic/phone/portrait",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "nes-classic/phone/landscape",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "nes-classic/tablet/portrait",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "nes-classic/tablet/landscape",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "nes-classic/phone/portrait",
+        "scripted": true,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      }
+    ],
+    "scope": "真实核心画面合成；触控版额外验证 A/方向/释放/旋转。边框按画面类别测试，不等同每个图示机种的核心兼容性。"
+  }
+}

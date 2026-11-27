@@ -1,0 +1,77 @@
+{
+  "source_file": "/Volumes/GM9000/Continue/assets/skins/manic/2026-11-23/official/PlayStation Portable/PSP.manicskin",
+  "sha256": "8a58c6f76785e669c1d34c5ac41cf968b5747780454a81aed2a3f3c9a131b0d3",
+  "license_evidence": {
+    "file": "/Volumes/GM9000/Continue/manic-skins-20261123/official/PlayStation Portable/PSP.manicskin",
+    "archive_tree": "63c04f92febba461d10ea16ef00b0f76199a5b20",
+    "archive_path": "PSP.manicskin",
+    "same_content": true,
+    "archive_blob_sha": "1e511cf249f99b6a453e41cc6983f30d9c25a2f0"
+  },
+  "input_mapping": {
+    "a": "A",
+    "b": "B",
+    "x": "X",
+    "y": "Y",
+    "l": "L",
+    "r": "R",
+    "l1": "L",
+    "r1": "R",
+    "start": "Start",
+    "select": "Select",
+    "menu": "Menu",
+    "up": "Up",
+    "down": "Down",
+    "left": "Left",
+    "right": "Right"
+  },
+  "note": "MD 按 Genesis Plus GX 的 Libretro 六键契约；SMS/GG 的 1/2 键映射 B/A。未做实际核心输入验收。",
+  "layouts": 4,
+  "native_verification": {
+    "date": "2026-11-28",
+    "platform": "macOS aarch64 / Metal",
+    "cases": [
+      {
+        "profile": "psp",
+        "layout": "psp-classic/phone/portrait",
+        "scripted": false,
+        "core_sha256": "84b8d40d268ac0e334ae8f40119d9157e9d9e3245691afea83ef2548a246e294",
+        "rom_sha256": "15fa6f30d2fdc70a67b1cae646f82e6a4187d473ca4882c4631dc5b3fb43fc1d",
+        "passed": true
+      },
+      {
+        "profile": "psp",
+        "layout": "psp-classic/phone/landscape",
+        "scripted": false,
+        "core_sha256": "84b8d40d268ac0e334ae8f40119d9157e9d9e3245691afea83ef2548a246e294",
+        "rom_sha256": "15fa6f30d2fdc70a67b1cae646f82e6a4187d473ca4882c4631dc5b3fb43fc1d",
+        "passed": true
+      },
+      {
+        "profile": "psp",
+        "layout": "psp-classic/tablet/portrait",
+        "scripted": false,
+        "core_sha256": "84b8d40d268ac0e334ae8f40119d9157e9d9e3245691afea83ef2548a246e294",
+        "rom_sha256": "15fa6f30d2fdc70a67b1cae646f82e6a4187d473ca4882c4631dc5b3fb43fc1d",
+        "passed": true
+      },
+      {
+        "profile": "psp",
+        "layout": "psp-classic/tablet/landscape",
+        "scripted": false,
+        "core_sha256": "84b8d40d268ac0e334ae8f40119d9157e9d9e3245691afea83ef2548a246e294",
+        "rom_sha256": "15fa6f30d2fdc70a67b1cae646f82e6a4187d473ca4882c4631dc5b3fb43fc1d",
+        "passed": true
+      },
+      {
+        "profile": "psp",
+        "layout": "psp-classic/phone/portrait",
+        "scripted": true,
+        "core_sha256": "84b8d40d268ac0e334ae8f40119d9157e9d9e3245691afea83ef2548a246e294",
+        "rom_sha256": "15fa6f30d2fdc70a67b1cae646f82e6a4187d473ca4882c4631dc5b3fb43fc1d",
+        "passed": true
+      }
+    ],
+    "scope": "真实核心画面合成；触控版额外验证 A/方向/释放/旋转。边框按画面类别测试，不等同每个图示机种的核心兼容性。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-28",
+  "atomicpurple": {
+    "selected_count": 1,
+    "resource_id": "com.starvingartist.gba.aa-atomicpurple",
+    "source": "/Users/karma/krtek-v2/examples/carts/local.continue.atomicpurple-test",
+    "layouts": "四个布局归为同一款式；不按横竖屏或沉浸模式重复列款",
+    "status": "现有本地迁移素材；授权未定，不纳入本批公开发布候选"
+  },
+  "existing_gba": {
+    "slug": "gba-amethyst",
+    "note": "与 AtomicPurple 来源不同的既有预览 Cart；本批不复制、不覆盖已发布版本"
+  },
+  "new_touch": [
+    "gb-classic",
+    "gbc-classic",
+    "nes-classic",
+    "snes-classic",
+    "md-sixbutton",
+    "sms-classic",
+    "gg-classic",
+    "psp-classic"
+  ],
+  "new_bezels": "platform-bezels",
+  "pending": {
+    "nds": "双屏输出、源裁剪及触摸映射验收后制作",
+    "ps1_touch": "右模拟轴与 Analog 切换需先核对；本批提供无触控边框",
+    "n64_touch": "C 方向与 Z 映射验收后制作；本批提供无触控边框",
+    "pce_touch": "现有 Manic 包许可身份待补；本批先提供独立来源边框",
+    "arcade_touch": "现有四键模板不代表所有街机；先交付横竖无触控边框"
+  },
+  "distribution": "本批 10 张 Cart 已完成 60 个真实核心用例，发布版本为 0.1.0-preview.2；官方源以线上读回记录为准。",
+  "new_clean_screen_bezels": "screen-bezels"
+}

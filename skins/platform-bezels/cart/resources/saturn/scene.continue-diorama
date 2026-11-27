@@ -1,0 +1,4 @@
+# 无按钮、无触控区域；仅贴图与游戏画框。
+DioramaRoot version="0.2" id="platform-bezels/saturn" mapping="2560,1440" orientation="landscape"
+  Background img="assets/border.png"
+  Screen id="main" frame="320,1,1920,1438"

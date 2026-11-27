@@ -1,0 +1,32 @@
+schema = "continue.cartfile.v2"
+id = "org.continue.diorama.platform-bezels"
+default_locale = "zh-CN"
+version = "0.1.0-preview.2"
+author = "Nosh；Continue 适配"
+publisher = "Continue"
+description = "为掌机、家用机和横竖街机填充宽屏空白，包含十七款无按钮边框，保留游戏比例。"
+tags = ["diorama", "bezels", "controller"]
+
+[name]
+zh-CN = "机种纯边框集"
+en = "Platform Bezels"
+
+[summary]
+zh-CN = "为掌机、家用机和横竖街机填充宽屏空白，包含十七款无按钮边框，保留游戏比例。"
+en = "Decorative platform borders without touch controls, preserving the game aspect ratio."
+
+[presentation]
+icon = "presentation/icon.png"
+cover = "presentation/cover.png"
+screenshots = ["presentation/gb.png", "presentation/gba.png", "presentation/nes.png", "presentation/pce.png", "presentation/arcade-vertical.png", "presentation/ws-vertical.png"]
+
+[links]
+source = "https://github.com/libretro/overlay-borders"
+
+[artifact]
+format = "cart.zip.v1"
+
+[artifact.target]
+
+[include]
+paths = ["README.md", "CREDITS.md", "LICENSE.txt", "RELEASE_NOTES.md", "provenance.json", "presentation/", "resources/"]

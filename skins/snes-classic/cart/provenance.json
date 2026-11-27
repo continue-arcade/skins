@@ -1,0 +1,77 @@
+{
+  "source_file": "/Volumes/GM9000/Continue/assets/skins/manic/2026-11-23/official/Super Nintendo/SNES.manicskin",
+  "sha256": "f33732c8a3c26c4236d43c2cf2f09e32c6f23307b6091d3c1536a6909c39ffac",
+  "license_evidence": {
+    "file": "/Volumes/GM9000/Continue/manic-skins-20261123/official/Super Nintendo/SNES.manicskin",
+    "archive_tree": "63c04f92febba461d10ea16ef00b0f76199a5b20",
+    "archive_path": "SNES.manicskin",
+    "same_content": true,
+    "archive_blob_sha": "431770d2d8478887b7f76747260f77a7ef4eee80"
+  },
+  "input_mapping": {
+    "a": "A",
+    "b": "B",
+    "x": "X",
+    "y": "Y",
+    "l": "L",
+    "r": "R",
+    "l1": "L",
+    "r1": "R",
+    "start": "Start",
+    "select": "Select",
+    "menu": "Menu",
+    "up": "Up",
+    "down": "Down",
+    "left": "Left",
+    "right": "Right"
+  },
+  "note": "MD 按 Genesis Plus GX 的 Libretro 六键契约；SMS/GG 的 1/2 键映射 B/A。未做实际核心输入验收。",
+  "layouts": 4,
+  "native_verification": {
+    "date": "2026-11-28",
+    "platform": "macOS aarch64 / Metal",
+    "cases": [
+      {
+        "profile": "snes",
+        "layout": "snes-classic/phone/portrait",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "snes-classic/phone/landscape",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "snes-classic/tablet/portrait",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "snes-classic/tablet/landscape",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "snes-classic/phone/portrait",
+        "scripted": true,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      }
+    ],
+    "scope": "真实核心画面合成；触控版额外验证 A/方向/释放/旋转。边框按画面类别测试，不等同每个图示机种的核心兼容性。"
+  }
+}

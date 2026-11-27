@@ -1,0 +1,32 @@
+schema = "continue.cartfile.v2"
+id = "org.continue.diorama.screen-bezels"
+default_locale = "zh-CN"
+version = "0.1.0-preview.2"
+author = "Libretro common-overlays contributors；Continue 适配"
+publisher = "Continue"
+description = "为经典掌机和横竖屏游戏保留简洁屏框，不显示按钮图案或触摸控件，适合搭配实体手柄游玩。"
+tags = ["diorama", "bezels", "controller"]
+
+[name]
+zh-CN = "简洁屏框集"
+en = "Screen Bezels"
+
+[summary]
+zh-CN = "为经典掌机和横竖屏游戏保留简洁屏框，不显示按钮图案或触摸控件，适合搭配实体手柄游玩。"
+en = "Decorative screen borders without touch controls, preserving the game aspect ratio."
+
+[presentation]
+icon = "presentation/icon.png"
+cover = "presentation/cover.png"
+screenshots = ["presentation/gb.png", "presentation/crt-horizontal.png", "presentation/crt-vertical.png"]
+
+[links]
+source = "https://github.com/libretro/common-overlays"
+
+[artifact]
+format = "cart.zip.v1"
+
+[artifact.target]
+
+[include]
+paths = ["README.md", "CREDITS.md", "LICENSE.txt", "RELEASE_NOTES.md", "provenance.json", "presentation/", "resources/"]

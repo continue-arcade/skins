@@ -1,0 +1,4 @@
+# 无按钮图案与触摸控件。
+DioramaRoot version="0.2" id="screen-bezels/crt-horizontal" mapping="1140,856"
+  Background img="assets/border.png"
+  Screen id="main" frame="47,40,1046,776"

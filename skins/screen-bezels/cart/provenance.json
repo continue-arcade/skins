@@ -1,0 +1,75 @@
+{
+  "repository": "libretro/common-overlays",
+  "commit": "8cc97a529fc642ec9e40e2c2f7e7e5c53ea88428",
+  "resources": [
+    {
+      "path": "borders/img/gb-4k.png",
+      "url": "https://raw.githubusercontent.com/libretro/common-overlays/8cc97a529fc642ec9e40e2c2f7e7e5c53ea88428/borders/img/gb-4k.png",
+      "sha256": "cfea0216666f40c37cdb2bfa65d5ad0c0335aad4ac4d7d5120dcd091a7e18eed",
+      "resource": "gb",
+      "aperture": [
+        1294,
+        518,
+        1252,
+        1124
+      ]
+    },
+    {
+      "path": "effects/crt-bezels/img/horizontal.png",
+      "url": "https://raw.githubusercontent.com/libretro/common-overlays/8cc97a529fc642ec9e40e2c2f7e7e5c53ea88428/effects/crt-bezels/img/horizontal.png",
+      "sha256": "ab0e2bbfaf595c05f116401ad8cc420d4ae1841861db0826b3e331a46523b56b",
+      "resource": "crt-horizontal",
+      "aperture": [
+        47,
+        40,
+        1046,
+        776
+      ]
+    },
+    {
+      "path": "effects/crt-bezels/img/vertical.png",
+      "url": "https://raw.githubusercontent.com/libretro/common-overlays/8cc97a529fc642ec9e40e2c2f7e7e5c53ea88428/effects/crt-bezels/img/vertical.png",
+      "sha256": "e2ff85eb50ec7b0f85077af04f788a12be9b51d49dbdc6e6317129a81988ac66",
+      "resource": "crt-vertical",
+      "aperture": [
+        58,
+        72,
+        776,
+        1046
+      ]
+    }
+  ],
+  "adaptation": "保持原图；将透明窗口登记为游戏画框。",
+  "controls": 0,
+  "native_verification": {
+    "date": "2026-11-28",
+    "platform": "macOS aarch64 / Metal",
+    "cases": [
+      {
+        "profile": "gb",
+        "layout": "screen-bezels/gb",
+        "scripted": false,
+        "core_sha256": "341e1b37162472975c3c497c5dde490efb7cb476d9ea9149639082a39dd6549d",
+        "rom_sha256": "733eb6e7ec0719752ddd5fcda4e715c2f2e20f4ac4bc971c4bd1d49272f9bb04",
+        "passed": true
+      },
+      {
+        "profile": "snes",
+        "layout": "screen-bezels/crt-horizontal",
+        "scripted": false,
+        "core_sha256": "3e80c469f71041b6b2f7f91c187b0afbd51d6b05bfb273480ba01dc725e87aaf",
+        "rom_sha256": "8c3f6028bb1246d2a4c5a695f9fb7b237b73dbb7c8242f042f11d8a85476cef8",
+        "passed": true
+      },
+      {
+        "profile": "nes",
+        "layout": "screen-bezels/crt-vertical",
+        "scripted": false,
+        "core_sha256": "cb0c39f172bf70bf4f05354a64ef250f60eaa5ff15282adaf6b8bcdd79e12648",
+        "rom_sha256": "04f01d7372f66ea2befe325b9bd655a9fcc395a31fa46d9466286bb8f9d2e62e",
+        "passed": true
+      }
+    ],
+    "scope": "真实核心画面合成；触控版额外验证 A/方向/释放/旋转。边框按画面类别测试，不等同每个图示机种的核心兼容性。"
+  }
+}

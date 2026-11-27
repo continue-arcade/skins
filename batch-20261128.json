@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "gb-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "gb-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.gb-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/gb-classic-0.1.0-preview.2.cart",
+    "sha256": "bd383e1b953877159fe81a17b167031498d7a5f7bdb6479c26c0de8b169b18f7",
+    "bytes": 6075222,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "gbc-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "gbc-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.gbc-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/gbc-classic-0.1.0-preview.2.cart",
+    "sha256": "3ddd5750705ae913a7c34e1d9cc4e7f3df3a2a2e34c03bf53d79bdb77c4058dd",
+    "bytes": 6832725,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "nes-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "nes-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.nes-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/nes-classic-0.1.0-preview.2.cart",
+    "sha256": "2c0dcdb3a4a999f1b20f87605b8cbf83b116191a3eee84f45cd29454e61dd978",
+    "bytes": 3701715,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "snes-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "snes-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.snes-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/snes-classic-0.1.0-preview.2.cart",
+    "sha256": "663a3246a1244576375061e28f85801d2bd28d96e59031844a0e98ff53b8c2ac",
+    "bytes": 5071272,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "md-sixbutton",
+    "version": "0.1.0-preview.2",
+    "tag": "md-sixbutton-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.md-sixbutton",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/md-sixbutton-0.1.0-preview.2.cart",
+    "sha256": "55e83d48009557a764dc3894ff343fdc9c3a93dacae0e4f7275f5356623c0e35",
+    "bytes": 2522226,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "sms-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "sms-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.sms-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/sms-classic-0.1.0-preview.2.cart",
+    "sha256": "a5a1b93f0af2f645da8920336b8c472929061138aada33ca9e20203272bb4ab3",
+    "bytes": 5193847,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "gg-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "gg-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.gg-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/gg-classic-0.1.0-preview.2.cart",
+    "sha256": "d8f8c5c42c25883eeafba349a037033b311688b6733e84528bb72e795c768371",
+    "bytes": 4604264,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "psp-classic",
+    "version": "0.1.0-preview.2",
+    "tag": "psp-classic-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.psp-classic",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/psp-classic-0.1.0-preview.2.cart",
+    "sha256": "cc4076c3692064074f24c40947d1a618f281503293ae5ca75807f5b20c8e03e0",
+    "bytes": 5652407,
+    "cases": 5,
+    "screenshots": [
+      "phone-portrait.png",
+      "phone-landscape.png",
+      "tablet-portrait.png",
+      "tablet-landscape.png",
+      "pressed.png"
+    ]
+  },
+  {
+    "slug": "platform-bezels",
+    "version": "0.1.0-preview.2",
+    "tag": "platform-bezels-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.platform-bezels",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/platform-bezels-0.1.0-preview.2.cart",
+    "sha256": "7592c1f76ddc6a7309fa996187d4dac0246bea8cbf73cd35c2de60bb8a35d443",
+    "bytes": 66788041,
+    "cases": 17,
+    "screenshots": [
+      "gb.png",
+      "gba.png",
+      "nes.png",
+      "pce.png",
+      "arcade-vertical.png",
+      "ws-vertical.png"
+    ]
+  },
+  {
+    "slug": "screen-bezels",
+    "version": "0.1.0-preview.2",
+    "tag": "screen-bezels-v0.1.0-preview.2",
+    "cart_id": "org.continue.diorama.screen-bezels",
+    "artifact": "/Volumes/GM9000/Continue/repos/skins/releases/screen-bezels-0.1.0-preview.2.cart",
+    "sha256": "68b1cf68805570f969f187af65c9e9199c8a9d75fe20260117f175fb44dbcece",
+    "bytes": 301459,
+    "cases": 3,
+    "screenshots": [
+      "gb.png",
+      "crt-horizontal.png",
+      "crt-vertical.png"
+    ]
+  }
+]
